@@ -36,7 +36,7 @@
             "img": "https://brmotorolanew.vtexassets.com/arquivos/ids/163311-1200-auto?v=638079352125770000&width=1200&height=auto&aspect=true",
             "codigo": "QWERTY",
             "desc": "Aparelho celular para uso pessoal",
-            "preco": "2685,60"
+            "preco": "R$ 2685,60"
         },
         {
             "id": 2,
@@ -47,7 +47,7 @@
             "img": "https://i.zst.com.br/thumbs/12/34/34/1971653385.jpg",
             "codigo": "UIOPP",
             "desc": "TV 50 polegadas",
-            "preco": "3685,60"
+            "preco": "R$ 3685,60"
         }
     ]
 }
