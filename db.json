@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andrew",
+      "location": "Brazil"
+    },
+    {
+      "id": 2,
+      "name": "Julio",
+      "location": "Canadá"
+    },
+    {
+      "name": "Antonio",
+      "location": "Bogotá",
+      "id": 3
+    },
+    {
+      "name": "Manoel",
+      "location": "Argentina",
+      "id": 4
+    },
+    {
+      "name": "Joaquim",
+      "location": "Argélia",
+      "id": 5
+    }
+  ]
+}
