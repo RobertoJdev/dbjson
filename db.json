@@ -26,4 +26,25 @@
       "id": 5
     }
   ]
+  
+   "products": [
+    {
+      "id": 1,
+      "titulo": "Celular",
+      "categoria": "Eletronico",
+      "modelo": "X10",
+      "quantidade": 10,
+      "img": "https://brmotorolanew.vtexassets.com/arquivos/ids/163311-1200-auto?v=638079352125770000&width=1200&height=auto&aspect=true"
+    },
+{
+      "id": 2,
+      "titulo": "Televisão",
+      "categoria": "Eletronico",
+      "modelo": "X10",
+      "quantidade": 10,
+      "img": "https://i.zst.com.br/thumbs/12/34/34/1971653385.jpg"
+    },
+   
+  ]
+  
 }
